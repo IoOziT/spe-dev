@@ -23,4 +23,12 @@
 hs_err_pid*
 replay_pid*
 
+# Generated files
 target
+
+# IDE configs
+.idea
+.vscode
+
+# Environment variables
+*.env*
